@@ -126,8 +126,7 @@ def get_str(idx, analyzes) :
     
     
 if __name__ == '__main__':
-    excel_file = "E:\\Codes_error_analyzing_project\\C2\\test.xlsx"
-    #excel path
+    excel_file = "c2\\test.xlsx"
     
     question = r"""
     Kanna 和朋友们一同经营着一家名为“星光咖啡馆”的小店。到月末的时候，她们需要统计整理本月的营业额。现在已知咖啡馆在上个月共售出了 n 杯咖啡，每杯咖啡的售价都是 p 元。请问上个月售出的这些咖啡为店里带来的营业额是多少。
